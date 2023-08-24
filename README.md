@@ -35,7 +35,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TriptanjanaS07&show_icons=true&locale=en&theme=tokyonight" alt="TriptanjanaS07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TriptanjanaS07&&theme=tokyonight" alt="TriptanjanaS07" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TriptanjanaS07&&theme=tokyonight" alt="TriptanjanaS07" />
+</div>
+
+
+
+
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TriptanjanaS07&&theme=tokyonight" alt="TriptanjanaS07" /></p>-->
 
 
 
